@@ -418,3 +418,13 @@ a:focus, a:hover, a:active {
   text-align: center;
   margin-bottom: 1em;
 }
+
+.resources-container {
+  display: flex;
+  justify-content: center;
+}
+
+.resources-container .resource {
+  width: 30%;
+  margin: 1%;
+}
