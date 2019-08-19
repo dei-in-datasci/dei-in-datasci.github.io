@@ -428,3 +428,7 @@ a:focus, a:hover, a:active {
   width: 30%;
   margin: 1%;
 }
+
+.resources-container .resource img {
+  width: 100%;
+}
