@@ -124,7 +124,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #18BC9C;
+  color: #98cdcd;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
@@ -132,7 +132,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #18BC9C;
+  color: #98cdcd;
 }
 
 #mainNav .navbar-toggler {
@@ -157,11 +157,11 @@ section h2 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #18BC9C;
+    background: #98cdcd;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #18BC9C;
+    background: #98cdcd;
   }
   #mainNav.navbar-shrink {
     padding-top: 0.5rem;
@@ -317,7 +317,7 @@ header.masthead h2 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #18BC9C;
+  color: #98cdcd;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -336,7 +336,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 a {
-  color: #18BC9C;
+  color: #98cdcd;
 }
 
 a:focus, a:hover, a:active {
@@ -356,7 +356,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-primary {
-  color: #18BC9C !important;
+  color: #98cdcd !important;
 }
 
 .text-secondary {
@@ -364,8 +364,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #18BC9C;
-  border-color: #18BC9C;
+  background-color: #98cdcd;
+  border-color: #98cdcd;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
@@ -432,11 +432,12 @@ h2.text-white {
 }
 
 .resources-container .resource {
-    width: 31%;
-    margin: .75%;
-    background: #98cdcd;
-    color: #000;
-    padding: 1% 2%;
+  width: 31%;
+  margin: .75%;
+  border: #98cdcd solid 5px;
+  border-radius: 10px;
+  color: #000;
+  padding: 1% 2%;
 }
 
 .resources-container .resource .img-contain {
@@ -449,4 +450,8 @@ h2.text-white {
 
 .subtitle {
   font-style: italic;
+}
+
+#reports .containter {
+  max-width: 25rem;
 }
