@@ -452,6 +452,13 @@ h2.text-white {
   font-style: italic;
 }
 
-#reports .containter {
-  max-width: 25rem;
+#reports .reports.containter {
+  max-width: 960px;
+  width: 80%;
+}
+
+#reports .reports.container h4 {
+    width: 80%;
+    text-align: center;
+    margin: 0 auto 1em;
 }
