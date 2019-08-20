@@ -4,6 +4,8 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
  */
 
+@import url('https://fonts.googleapis.com/css?family=Oswald:300,400,600&display=swap');
+
 body {
   font-family: 'Lato';
 }
@@ -14,8 +16,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
-  font-family: 'Montserrat';
+  font-weight: 600;
+  font-family: 'Oswald';
 }
 
 hr.star-light,
