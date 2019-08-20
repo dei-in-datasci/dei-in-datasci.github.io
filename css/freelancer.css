@@ -49,7 +49,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #20558a;
+  background-color: #282F4F;
 }
 
 hr.star-dark {
@@ -348,7 +348,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #20558a !important;
+  background-color: #282F4F !important;
 }
 
 .bg-secondary {
@@ -452,7 +452,7 @@ h2.text-white {
   font-style: italic;
 }
 
-#reports .reports.containter {
+#reports .reports.container {
   max-width: 960px;
   width: 80%;
 }
