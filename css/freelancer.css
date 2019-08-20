@@ -53,11 +53,11 @@ hr.star-light:after {
 }
 
 hr.star-dark {
-  border-color: #2C3E50;
+  border-color: #282f4f;
 }
 
 hr.star-dark:after {
-  color: #2C3E50;
+  color: #282f4f;
   background-color: white;
 }
 
@@ -327,7 +327,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #2C3E50;
+  background-color: #282f4f;
   color: #fff;
 }
 
@@ -360,7 +360,7 @@ a:focus, a:hover, a:active {
 }
 
 .text-secondary {
-  color: #2C3E50;
+  color: #282f4f;
 }
 
 .btn-primary {
@@ -374,8 +374,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-secondary {
-  background-color: #2C3E50;
-  border-color: #2C3E50;
+  background-color: #282f4f;
+  border-color: #282f4f;
 }
 
 h2.text-white {
@@ -434,7 +434,7 @@ h2.text-white {
 .resources-container .resource {
     width: 31%;
     margin: .75%;
-    background: #fff;
+    background: #98cdcd;
     color: #000;
     padding: 1% 2%;
 }
