@@ -388,7 +388,7 @@ h2.text-white {
 }
 
 .repo-row {
-  border-bottom: solid 1px #00408521;
+  border-bottom: dotted 5px #4EADEA;
   margin-bottom: 2.5em;
   padding-bottom: 1.5em;
   display: flex;
