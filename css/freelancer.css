@@ -343,6 +343,7 @@ a {
 
 a:focus, a:hover, a:active {
   color: #4EADEA;
+  text-decoration: none;
 }
 
 .btn {
