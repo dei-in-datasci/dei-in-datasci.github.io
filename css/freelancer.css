@@ -380,7 +380,7 @@ a:focus, a:hover, a:active {
 }
 
 h2.text-white {
-  color: #fff;
+  color: #fff!important;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
@@ -441,12 +441,18 @@ h2.text-white {
   padding: 1% 2%;
 }
 
+#books .resources-container .resource{
+  border: transparent;
+  background: #fff;
+}
+
 .resources-container .resource .img-contain {
   width: 100%;
   padding-bottom: 75%;
   background-size: contain!important;
   background-repeat: no-repeat!important;
   background-position: center center!important;
+  margin-bottom: 1em;
 }
 
 .subtitle {
@@ -464,4 +470,8 @@ h2.text-white {
     width: 80%;
     text-align: center;
     margin: 0 auto 1em;
+}
+
+.copyright {
+  background: #616265;
 }
